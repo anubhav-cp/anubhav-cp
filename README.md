@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/anubhav_cp" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav_cp?logo=twitter&style=for-the-badge" alt="anubhav_cp" /></a> </p>
 
-- 🌱 I’m currently learning **Flask, Pygame**
+- 🌱 I’m currently learning **Django, Pygame**
 
 - 📝 I write articles on [https://cpsoft-tech.com](https://cpsoft-tech.com)
 
