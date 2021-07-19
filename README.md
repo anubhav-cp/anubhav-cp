@@ -51,6 +51,9 @@
 <a href="https://github.com/anubhav-cp/expense-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=expense-tracker" />
 </a>
+<a href="https://github.com/anubhav-cp/Socket-Client-Server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=Socket-Client-Server" />
+</a>
 
 
 
@@ -59,7 +62,7 @@
 
 
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=github-readme-stats&theme=highcontrast&locale=en)](https://github.com/anubhav-cp/expense-tracker)
+
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anubhav-cp'></p>
 
