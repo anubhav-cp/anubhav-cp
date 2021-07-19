@@ -47,7 +47,7 @@
 
 ## My Trending Repos 💻
 
-<a href="https://github.com/anubhav--cp/github-readme-stats">
+<a href="https://github.com/anubhav-cp/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=github-readme-stats" />
 </a>
 
