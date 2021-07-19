@@ -47,7 +47,8 @@
 
 ## My Trending Repos 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=expense-tracker&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/anubhav-cp/expense-tracker)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=expense-tracker&theme=highcontrast&locale=en)]
+(https://github.com/anubhav-cp/expense-tracker)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anubhav-cp'></p>
 
