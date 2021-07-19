@@ -47,6 +47,10 @@
 
 ## My Trending Repos 💻
 
+<a href="https://github.com/anubhav--cp/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=github-readme-stats" />
+</a>
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=github-readme-stats&theme=highcontrast&locale=en)](https://github.com/anubhav-cp/expense-tracker)
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anubhav-cp'></p>
