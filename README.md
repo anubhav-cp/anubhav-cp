@@ -46,7 +46,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-cp&theme=highcontrast" alt="anubhav-cp" /></p>
 
 
-## My Trending Repos 💻
+## My Recent Repos 💻
 
 <a href="https://github.com/anubhav-cp/expense-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=expense-tracker" />
