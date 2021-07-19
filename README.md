@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhav!</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-<p align="center"> <a href="https://twitter.com/anubhav_cp" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav_cp?logo=twitter&style=for-the-badge" alt="anubhav_cp" /></a> </p>
+<p align="center"> <a href="https://twitter.com/anubhav_cp" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav_cp?logo=twitter&style=social" alt="anubhav_cp" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Portfolio Website**
 
