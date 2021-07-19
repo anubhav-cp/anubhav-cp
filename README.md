@@ -58,9 +58,8 @@
 
 
 ## Recent GitHub Activity ⚡
+
 <!--START_SECTION:activity-->
-
-
 
 
 
