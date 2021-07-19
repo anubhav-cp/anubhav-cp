@@ -13,7 +13,7 @@
 
 - 📝 I write articles on [anubhavcp.hashnode.dev](anubhavcp.hashnode.dev)
 
-- 💬 Ask me about **anything, I'll try to my best to answer you
+- 💬 Ask me about **anything**, I'll try to my best to answer you
 
 - 📫 How to reach me **anubhavtiwaricp@gmail.com**
 
