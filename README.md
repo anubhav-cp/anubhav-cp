@@ -53,10 +53,10 @@
 </a>
 
 
-<details>
-        <summary>:zap: Recent GitHub Activity ⚡</summary>
+
+## Recent GitHub Activity ⚡
 <!--START_SECTION:activity-->
- </details>
+
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=github-readme-stats&theme=highcontrast&locale=en)](https://github.com/anubhav-cp/expense-tracker)
