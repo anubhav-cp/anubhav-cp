@@ -36,3 +36,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav-cp&show_icons=true&theme=highcontrast&locale=en" alt="anubhav-cp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-cp&theme=highcontrast" alt="anubhav-cp" /></p>
+
+## My Trending Repos 💻
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=gradientking&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/gradientking)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=loficlub&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/saviomartin/loficlub)
+
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anubhav-cp'></p>
+
