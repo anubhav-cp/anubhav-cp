@@ -45,6 +45,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-cp&theme=highcontrast" alt="anubhav-cp" /></p>
 
+## My Github Activity ⚡
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## My Trending Repos 💻
 
 <a href="https://github.com/anubhav-cp/github-readme-stats">
