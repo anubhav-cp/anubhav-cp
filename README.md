@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **anubhavtiwaricp@gmail.com**
 
-- 📄 Know about my experiences [Not Available Yet!](Not Available Yet!)
-
 - ⚡ Fun fact **I think I'll be the reason behind Google's Fall**
 
 
