@@ -56,16 +56,16 @@
 </a>
 
 
-<details>
- ## Recent GitHub Activity ⚡
+##<details>
+ <summary> Recent GitHub Activity ⚡</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13](https://github.com/jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 </details>
 
-<details>
-## Language Stats ⚡
+##<details>
+ <summary> Language Stats ⚡ </summary>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-cp&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
   
