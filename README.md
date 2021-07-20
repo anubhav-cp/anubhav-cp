@@ -74,5 +74,9 @@
  </h2>
 
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=anubhav-cp'></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/anubhav-cp/count.svg"/>
+ </p>
 
