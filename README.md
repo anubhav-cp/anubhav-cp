@@ -37,7 +37,7 @@
 
 
 
-## My Github Status 🦸
+## My Github Stats 🦸
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhav-cp&show_icons=true&theme=highcontrast&locale=en" alt="anubhav-cp" /></p>
 
@@ -53,6 +53,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=Socket-Client-Server&theme=highcontrast" />
 </a>
 
+![Anubhav's github contribution graph](https://activity-graph.herokuapp.com/graph?username=anubhav-cp&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
 ## Recent GitHub Activity ⚡
 
