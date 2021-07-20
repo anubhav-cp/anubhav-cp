@@ -44,7 +44,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-cp&theme=highcontrast" alt="anubhav-cp" /></p>
 
 ![Anubhav's github contribution graph](https://activity-graph.herokuapp.com/graph?username=anubhav-cp&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
-![Anubhav's github contribution graph](https://activity-graph.herokuapp.com/graph?username=anubhav-cp&theme=highcontrast)
+
 
 ## My Recent Repos 💻
 
