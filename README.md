@@ -48,9 +48,7 @@
 
 ## My Recent Repos 💻
 
-<a href="https://github.com/anubhav-cp/expense-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=expense-tracker&theme=highcontrast" />
-</a>
+
 <a href="https://github.com/anubhav-cp/Socket-Client-Server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=Socket-Client-Server&theme=highcontrast" />
 </a>
