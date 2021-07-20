@@ -43,6 +43,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhav-cp&theme=highcontrast" alt="anubhav-cp" /></p>
 
+![Anubhav's github contribution graph](https://activity-graph.herokuapp.com/graph?username=anubhav-cp&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
+![Anubhav's github contribution graph](https://activity-graph.herokuapp.com/graph?username=anubhav-cp&theme=highcontrast)
 
 ## My Recent Repos 💻
 
@@ -53,7 +55,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=Socket-Client-Server&theme=highcontrast" />
 </a>
 
-![Anubhav's github contribution graph](https://activity-graph.herokuapp.com/graph?username=anubhav-cp&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
 
 ## Recent GitHub Activity ⚡
 
