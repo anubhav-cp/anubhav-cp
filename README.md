@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend & API**
 
-- 👨‍💻 All of my projects are available at [Link Coming Soon!](Link Coming Soon!)
+- 👨‍💻 All of my projects are available at [Link Coming Soon!]
 
 - 📝 I write articles on [anubhavcp.hashnode.dev](anubhavcp.hashnode.dev)
 
