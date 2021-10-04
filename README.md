@@ -59,7 +59,7 @@
 ## Recent GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43384](https://github.com/firstcontributions/first-contributions/pull/43384) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 💪 Opened PR [#86](https://github.com/kavyanshpandey/hacktoberfest-2021/pull/86) in [kavyanshpandey/hacktoberfest-2021](https://github.com/kavyanshpandey/hacktoberfest-2021)
 <!--END_SECTION:activity-->
 
   
