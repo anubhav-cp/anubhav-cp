@@ -59,7 +59,7 @@
 ## Recent GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/kavyanshpandey/hacktoberfest-2021/pull/86) in [kavyanshpandey/hacktoberfest-2021](https://github.com/kavyanshpandey/hacktoberfest-2021)
+1. ❗️ Opened issue [#162](https://github.com/neha07kumari/Mini_Python_Projects/issues/162) in [neha07kumari/Mini_Python_Projects](https://github.com/neha07kumari/Mini_Python_Projects)
 <!--END_SECTION:activity-->
 
   
