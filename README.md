@@ -59,7 +59,7 @@
 ## Recent GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#234](https://github.com/neha07kumari/Mini_Python_Projects/issues/234) in [neha07kumari/Mini_Python_Projects](https://github.com/neha07kumari/Mini_Python_Projects)
+1. 🗣 Commented on [#234](https://github.com/neha07kumari/Mini_Python_Projects/issues/234) in [neha07kumari/Mini_Python_Projects](https://github.com/neha07kumari/Mini_Python_Projects)
 <!--END_SECTION:activity-->
 
   
