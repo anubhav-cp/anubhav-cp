@@ -59,7 +59,7 @@
 ## Recent GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#234](https://github.com/neha07kumari/Mini_Python_Projects/issues/234) in [neha07kumari/Mini_Python_Projects](https://github.com/neha07kumari/Mini_Python_Projects)
+1. 🎉 Merged PR [#1](https://github.com/anubhav-cp/UrlShortner/pull/1) in [anubhav-cp/UrlShortner](https://github.com/anubhav-cp/UrlShortner)
 <!--END_SECTION:activity-->
 
   
