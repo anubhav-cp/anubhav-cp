@@ -11,13 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [Link Coming Soon!]
 
-- 📝 I write articles on [anubhavcp.hashnode.dev](anubhavcp.hashnode.dev)
-
 - 💬 Ask me about **anything**, I'll try to my best to answer you
 
 - 📫 How to reach me **anubhavtiwaricp@gmail.com**
 
-- ⚡ Fun fact **I think I'll be the reason behind Google's Fall**
 
 
 
