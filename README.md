@@ -56,7 +56,7 @@
 ## Recent GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/anubhav-cp/UrlShortner/pull/3) in [anubhav-cp/UrlShortner](https://github.com/anubhav-cp/UrlShortner)
+1. 🎉 Merged PR [#4](https://github.com/anubhav-cp/UrlShortner/pull/4) in [anubhav-cp/UrlShortner](https://github.com/anubhav-cp/UrlShortner)
 
 
 <!--END_SECTION:activity-->
