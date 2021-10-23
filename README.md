@@ -56,7 +56,7 @@
 ## Recent GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/anubhav-cp/CourseCademy/pull/2) in [anubhav-cp/CourseCademy](https://github.com/anubhav-cp/CourseCademy)
+1. ❌ Closed PR [#3](https://github.com/anubhav-cp/UrlShortner/pull/3) in [anubhav-cp/UrlShortner](https://github.com/anubhav-cp/UrlShortner)
 
 
 <!--END_SECTION:activity-->
