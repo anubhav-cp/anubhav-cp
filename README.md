@@ -56,7 +56,7 @@
 ## Recent GitHub Activity ⚡
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/anubhav-cp/UrlShortner/issues/5) in [anubhav-cp/UrlShortner](https://github.com/anubhav-cp/UrlShortner)
+1. 🎉 Merged PR [#6](https://github.com/anubhav-cp/UrlShortner/pull/6) in [anubhav-cp/UrlShortner](https://github.com/anubhav-cp/UrlShortner)
 
 
 <!--END_SECTION:activity-->
