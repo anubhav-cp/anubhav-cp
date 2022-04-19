@@ -46,10 +46,10 @@
 ## My Recent Repos 💻
 
 <a href="https://github.com/anubhav-cp/Bitcussion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=UrlShortner&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=Bitcussion&theme=highcontrast" />
 </a>
 <a href="https://github.com/anubhav-cp/UrlShortner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=Django-Polls-App&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anubhav-cp&repo=UrlShortner&theme=highcontrast" />
 </a>
 
 
