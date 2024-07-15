@@ -3,9 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/anubhav_cp" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav_cp?logo=twitter&style=social" alt="anubhav_cp" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio Website**
-
-- 🌱 I’m currently learning **Django, API**
+- 🌱 I’m currently learning **Express**
 
 - 🤝 I’m looking for help with **Backend & API**
 
@@ -13,7 +11,7 @@
 
 - 💬 Ask me about **anything**, I'll try to my best to answer you
 
-- 📫 How to reach me **anubhavtiwaricp@gmail.com**
+- 📫 How to reach me **anubhav@dashmarc.com**
 
 
 
